@@ -15,4 +15,4 @@ developed using Python.
 Python
 
 ## How to Run
-python main.py
+python calculator.py
